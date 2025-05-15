@@ -1,0 +1,19 @@
+{
+  "name": "textmeshpro-extension",
+  "version": "0.0.1",
+  "displayName": "TextMeshPro Extension",
+  "description": "A Unity utility package for TextMeshPro that provides additional features and enhancements.",
+  "type": "module",
+  "author": "Echo Of Steel",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "textmeshpro",
+    "extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VuongThanhAn/textmeshpro-extension.git"
+  },
+  "hideInEditor": false
+}
